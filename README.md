@@ -1,4 +1,5 @@
 # NewsFlow BDD
+Paulo Campos Bezerra
 
 Histórias de usuário, cenários Gherkin e testes com Cucumber.js para o NewsFlow.
 
